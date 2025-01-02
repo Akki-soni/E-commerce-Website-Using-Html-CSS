@@ -192,7 +192,7 @@ p {
 }
 
 .product-section .product-cart {
-  width: 200px;
+  width: 280px;
   border: 1px solid #ebebeb;
   padding: 13px;
   margin-bottom: 30px;
@@ -236,5 +236,8 @@ p {
   color: #088178;
   background-color: #c7e9e75e;
   padding: 15px;
+  position: absolute;
   border-radius: 50px;
+  right: 10px;
+  bottom: 10px;
 }
